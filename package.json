@@ -8,6 +8,7 @@
   "private": true,
   "workspaces": [
     "workspaces/apple",
-    "workspaces/banana"
+    "workspaces/banana",
+    "workspaces/water"
   ]
 }
