@@ -1,11 +1,14 @@
 {
-  "name": "app-template-reason-react",
+  "name": "banana",
   "reason": { "react-jsx": 3 },
   "bsc-flags": ["-bs-super-errors"],
   "sources": [
     {
       "dir": "src",
       "subdirs": [{ "dir": "__tests__", "type": "dev" }]
+    },
+    {
+      "dir": "../water/src"
     }
   ],
   "package-specs": [{ "module": "es6", "in-source": true }],

@@ -1,1 +1,4 @@
-let add = (a, b) => a + b
+@react.component
+let make = (~onClick, ~children) => {
+  <button onClick> children </button>
+}

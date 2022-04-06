@@ -10,9 +10,9 @@ let make = () => {
       <img src={logo} className="App-logo" alt="logo" />
       <p> {"Hello Vite + React + ReScript!"->React.string} </p>
       <p>
-        <button onClick={_e => setCount(count => count + 1)}>
+        <Common onClick={_e => setCount(count => count + 1)}>
           {`count is: ${count->Belt.Int.toString}`->React.string}
-        </button>
+        </Common>
       </p>
       <p>
         {"Edit "->React.string}

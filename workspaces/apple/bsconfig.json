@@ -1,9 +1,12 @@
 {
-  "name": "vite-react-rescript-starter",
+  "name": "apple",
   "sources": [
     {
       "dir": "src",
       "subdirs": true
+    },
+    {
+      "dir": "../water/src"
     },
     {
       "dir": "tests",
