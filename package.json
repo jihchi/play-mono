@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "git@github.com:jihchi/play-mono.git",
   "author": "Jihchi <achi@987.tw>",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "workspaces/apple",
+    "workspaces/banana"
+  ]
 }
