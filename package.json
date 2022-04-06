@@ -1,0 +1,8 @@
+{
+  "name": "play-mono",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jihchi/play-mono.git",
+  "author": "Jihchi <achi@987.tw>",
+  "license": "MIT"
+}
